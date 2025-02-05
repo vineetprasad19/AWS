@@ -18,7 +18,7 @@ Storage Gateway: Hybrid storage service for on-premises access to AWS cloud stor
 **Database:**  
 RDS (Relational Database Service): Managed relational databases (e.g., MySQL, PostgreSQL, MariaDB, Oracle, SQL Server).  
 DynamoDB: Managed NoSQL database service.  
-Redshift(https://github.com/vineetprasad19/AWS/tree/main/AWS%20Redshift#aws-redshift---complete-guide): Data warehousing service.  
+[Redshift](https://github.com/vineetprasad19/AWS/tree/main/AWS%20Redshift#aws-redshift---complete-guide): Data warehousing service.  
 Aurora: High-performance relational database compatible with MySQL and PostgreSQL.  
 ElastiCache: Managed in-memory data store (supports Redis and Memcached).  
 DocumentDB: Managed document database service compatible with MongoDB.  
