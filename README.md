@@ -5,7 +5,7 @@ EC2 (Elastic Compute Cloud): Virtual servers for running applications.
 Lambda: Serverless compute service for running code in response to events.  
 Elastic Beanstalk: Platform as a Service (PaaS) for deploying and managing applications.  
 ECS (Elastic Container Service): Container orchestration service for Docker containers.  
-EKS (Elastic Kubernetes Service): Managed Kubernetes service.  
+[EKS (Elastic Kubernetes Service)](https://github.com/vineetprasad19/AWS/blob/main/Kubernetes/README.md): Managed Kubernetes service.  
 AWS Fargate: Serverless compute engine for containers.  
 ************************************************************************************************
 **Storage:**  
