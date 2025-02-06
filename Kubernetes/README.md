@@ -157,5 +157,22 @@ kubectl create secret generic my-secret --from-literal=password='P@ssw0rd'
 ![image](https://github.com/user-attachments/assets/3930aa87-83fc-4a81-83ae-9df64579cb2e)  
 ![image](https://github.com/user-attachments/assets/6852fa37-045b-4dfd-b7e0-ed02440189d2)  
 
+# Ingress  
+![image](https://github.com/user-attachments/assets/c39fc22c-16eb-4367-91a2-3c2035c5a494)  
+![image](https://github.com/user-attachments/assets/bd56afb6-2c2d-4fef-97ae-8ce22e1fa81f)  
+![image](https://github.com/user-attachments/assets/f4188ff3-1e47-4620-a438-2e900c49ef46)  
+# 4. TLS/SSL Termination  
+Ingress can handle HTTPS traffic and terminate SSL using TLS secrets.  
+![image](https://github.com/user-attachments/assets/56d12e44-23b0-4c8c-93ee-03df628b6073)  
+![image](https://github.com/user-attachments/assets/ef1a2167-1b61-4d01-825a-32cabb137ca1)  
+
+![image](https://github.com/user-attachments/assets/c2d3f2f7-fb9e-4906-ba51-fa82f66eeebb)  
+![image](https://github.com/user-attachments/assets/d3efc1d7-afe3-4d4f-85b8-c3d18a10cb75)   
+
+**Conclusion**  
++ Ingress allows external access to Kubernetes services with routing, SSL, and security.  
++ It needs an Ingress Controller to function.  
++ Supports path-based, host-based, and TLS termination.  
++ NGINX Ingress Controller is the most widely used.  
 
 
