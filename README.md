@@ -20,7 +20,7 @@ RDS (Relational Database Service): Managed relational databases (e.g., MySQL, Po
 DynamoDB: Managed NoSQL database service.  
 [Redshift](https://github.com/vineetprasad19/AWS/tree/main/AWS%20Redshift#aws-redshift---complete-guide): Data warehousing service.  
 Aurora: High-performance relational database compatible with MySQL and PostgreSQL.  
-ElastiCache: Managed in-memory data store (supports Redis and Memcached).  
+[ElastiCache](https://github.com/vineetprasad19/AWS/blob/main/ElasticCache/README.md): Managed in-memory data store (supports Redis and Memcached).  
 DocumentDB: Managed document database service compatible with MongoDB.  
 ************************************************************************************************
 **Analytics:**  
