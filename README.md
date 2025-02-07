@@ -17,11 +17,11 @@ Storage Gateway: Hybrid storage service for on-premises access to AWS cloud stor
 ************************************************************************************************
 **Database:**  
 RDS (Relational Database Service): Managed Traditional OLTP relational databases (e.g., MySQL, PostgreSQL, MariaDB, Oracle, SQL Server).  
-DynamoDB: Serverless Fully Managed NoSQL (Key-Value, Wide Column) database service.
+DynamoDB: Serverless Fully Managed NoSQL (Key-Value, Wide Column) database service.  
 [Redshift](https://github.com/vineetprasad19/AWS/tree/main/AWS%20Redshift#aws-redshift---complete-guide): Data warehousing service (OLAP).  
-Aurora: OLTP (High-performance) relational database compatible with MySQL and PostgreSQL. (5X performance vs MySQL)
+Aurora: OLTP (High-performance) relational database compatible with MySQL and PostgreSQL. (5X performance vs MySQL)  
 [ElastiCache](https://github.com/vineetprasad19/AWS/blob/main/ElasticCache/README.md): Managed in-memory data store (supports Redis and Memcached).  
-DocumentDB: Serverless Fully Managed NoSQL (Document-based) document database service compatible with MongoDB for document storage (JSON-based).  
+DocumentDB: Serverless Fully Managed NoSQL (Document-based) document database service compatible with MongoDB for document storage (JSON-based).   
 ![image](https://github.com/user-attachments/assets/0fb1340d-f817-4784-a229-8355a6e311d4)  
 ![image](https://github.com/user-attachments/assets/438d859c-d35a-44b1-b457-ebd6fa0a3744)  
 ************************************************************************************************
