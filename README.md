@@ -28,7 +28,7 @@ DocumentDB: Serverless Fully Managed NoSQL (Document-based) document database se
 **Analytics:**  
 EMR (Elastic MapReduce): Managed big data frameworks like Hadoop(raw unprocessed data) , pySpark, sqoop, hbase etc. Its a managed cluster and allows to scale by adding and removing nodes to your cluster. 
 It runs on EC2 under the hood. We need to add steps in EMR cluster which pyspark scripts we wrote .  
-Glue: ETL (Extract, Transform, Load) service for data preparation. Create crawler from data catalog then add datasource like S3 bucket location, then add database where the data is loaded in the tables, then start crawler to load the data.  
+[AWS Glue](https://github.com/vineetprasad19/AWS/blob/main/AWS%20Glue/README.md): ETL (Extract, Transform, Load) service for data preparation. Create crawler from data catalog then add datasource like S3 bucket location, then add database where the data is loaded in the tables, then start crawler to load the data.  
 Athena: Serverless query service for analyzing data in S3 using SQL. supports advanced sql, windows funstions and arrays. Very easy for non technical folks and BI Analyst folks.  
 QuickSight: Business intelligence (BI) service for data visualization.  
 Kinesis: Real-time data processing and analytics.  
