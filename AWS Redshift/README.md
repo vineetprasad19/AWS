@@ -1,7 +1,27 @@
 # AWS Redshift - Complete Guide  
   
 **1. Overview**  
-Amazon Redshift is a fully managed, petabyte-scale cloud data warehouse service designed for fast query performance on large datasets. It uses columnar storage technology to optimize read performance and supports SQL-based queries via PostgreSQL-compatible interfaces.  
+- It is petabyte scale data warehouse
+- It is designed for reporting and analytics
+- It is an OLAP (column based) database, not OLTP (row/transaction)
+    - OLTP (Online Transaction Processing): capture, stores, processes data from transactions in real-time
+    - OLAP (Online Analytical Processing): designed for complex queries to analyze aggregated historical data from other OALP systems
+- Advanced features of Redshift:
+    - RedShift Spectrum: allows querying data from S3 without loading it into Redshift platform
+    - Federated Query: directly query data stored in remote data sources
+- Redshift integrates with Quicksight for visualization
+- It provides a SQL-like interface with JDBC/ODBC connections
+- By Redshift is a provisioned product, it is not serverless (AWS offers Redshift Serverless option as well). It does come with provisioning time
+- It uses a cluster architecture. A cluster is a private network, and it can not be accessed directly
+- Redshift runs in one AZ, not HA by design
+- All clusters have a leader node with which we can interact in order to do querying, planning and aggregation
+- Compute nodes: perform queries on data. A compute node is partition into slices. Each slice is allocation a portion of memory and disk space, where it processes a portion of workload. Slices work in parallel, a node can have 2, 4, 16 or 32 slices, depending the resource capacity
+- Redshift if s VPC service, it uses VPC security: IAM permissions, KMS encryption at rest, CloudWatch monitoring
+- Redshift Enhance VPC Routing:
+    - By default Redshift uses public routes for traffic when communicating with external services or any public AWS service (such as S3)
+    - When enabled, traffic is routed based on the VPC networking configurations (SG, ACLs, etc.)
+    - Traffic is routed based on the VPC networking configuration
+    - Traffic can be controlled by security groups, it can use network DNS, it can use VPC gateways
   
 **2. Key Features**  
 Columnar Storage: Stores data in columns instead of rows for high performance in analytical queries.  
