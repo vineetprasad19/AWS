@@ -9,15 +9,15 @@
 [AWS Resource Access Manager - RAM](https://github.com/vineetprasad19/AWS/blob/main/ram.md)  
 [AWS Service Quotas](https://github.com/vineetprasad19/AWS/blob/main/service-quotas.md)  
 ************************************************************************************************
-**Networking**
+**Networking**  
 [VPC - Virtual Private Cloud](https://github.com/vineetprasad19/AWS/blob/main/vpc.md)  
-[VPNs](https://github.com/vineetprasad19/AWS/blob/main/vpn.md)
-[AWS Transit Gateway](https://github.com/vineetprasad19/AWS/blob/main/transit-gateway.md)
-[BGP - Border Gateway Protocol](https://github.com/vineetprasad19/AWS/blob/main/bgp.md)
-[AWS Global Accelerator](https://github.com/vineetprasad19/AWS/blob/main/global-accelerator.md)
-[DX - Direct Connect](https://github.com/vineetprasad19/AWS/blob/main/direct-connect.md)
-[Route53](https://github.com/vineetprasad19/AWS/blob/main/route53.md)
-[AWS PrivateLink](https://github.com/vineetprasad19/AWS/blob/main/privatelink.md)
+[VPNs](https://github.com/vineetprasad19/AWS/blob/main/vpn.md)  
+[AWS Transit Gateway](https://github.com/vineetprasad19/AWS/blob/main/transit-gateway.md)  
+[BGP - Border Gateway Protocol](https://github.com/vineetprasad19/AWS/blob/main/bgp.md)  
+[AWS Global Accelerator](https://github.com/vineetprasad19/AWS/blob/main/global-accelerator.md)  
+[DX - Direct Connect](https://github.com/vineetprasad19/AWS/blob/main/direct-connect.md)  
+[Route53](https://github.com/vineetprasad19/AWS/blob/main/route53.md)  
+[AWS PrivateLink](https://github.com/vineetprasad19/AWS/blob/main/privatelink.md)  
 ************************************************************************************************
 **Compute:**  
 EC2 (Elastic Compute Cloud): Virtual servers for running applications.  
