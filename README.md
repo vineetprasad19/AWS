@@ -1,5 +1,14 @@
 # All about AWS that Data Engineer should know
 
+**Advanced Permissions and Accounts**
+    - [MFA](01-accounts/mfa.md)
+    - [IAM](01-accounts/iam.md)
+    - [AWS Organizations](01-accounts/organizations.md)
+    - [STS](01-accounts/sts.md)
+    - [Policies](01-accounts/policies.md)
+    - [AWS Resource Access Manager - RAM](01-accounts/ram.md)
+    - [AWS Service Quotas](01-accounts/service-quotas.md)
+
 **Compute:**  
 EC2 (Elastic Compute Cloud): Virtual servers for running applications.  
 Lambda: Serverless compute service for running code in response to events.  
