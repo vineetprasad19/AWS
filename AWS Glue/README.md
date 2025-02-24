@@ -8,6 +8,15 @@
 - Supports data streams as data sources such as Kinesis Data Streams and Apache Kafka
 - Data targets supported: S3, RDS, JDBC data sources
 
+# Why name glue?
+
+Because basically it binds together multiple components and that's why maybe it is a good logical name to give. It is called AWS glue.
+
+What it is in a very basic sense it is a serverless data integration service.
+
+It helps you to integrate data from different sources and then perform analytics, or at least give
+you a base on which analytics can be performed. It gives you all the capabilities you need for data integration, and that is all done in a serverless fashion. So you do not have to set up any infrastructure. The most common capability you would probably get started off glue is what we call catalog.
+
 ## Data Catalog
 
 - Collection of persistent metadata about data sources in a region
@@ -22,15 +31,6 @@
 - Jobs can do transformation by using scripts created by us
 - Jobs are serverless, AWS maintains a pool of resources
 - We are only billed by resources we consume
-
-# Why name glue?
-
-Because basically it binds together multiple components and that's why maybe it is a good logical name to give. It is called AWS glue.
-
-What it is in a very basic sense it is a serverless data integration service.
-
-It helps you to integrate data from different sources and then perform analytics, or at least give
-you a base on which analytics can be performed. It gives you all the capabilities you need for data integration, and that is all done in a serverless fashion. So you do not have to set up any infrastructure. The most common capability you would probably get started off glue is what we call catalog.
 
 # Catalog
 
