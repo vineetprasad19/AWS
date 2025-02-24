@@ -8,7 +8,7 @@
 [Policies](https://github.com/vineetprasad19/AWS/blob/main/policies.md)  
 [AWS Resource Access Manager - RAM](https://github.com/vineetprasad19/AWS/blob/main/ram.md)  
 [AWS Service Quotas](https://github.com/vineetprasad19/AWS/blob/main/service-quotas.md)  
-
+************************************************************************************************
 **Compute:**  
 EC2 (Elastic Compute Cloud): Virtual servers for running applications.  
 Lambda: Serverless compute service for running code in response to events.  
