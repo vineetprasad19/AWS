@@ -1,13 +1,13 @@
 # All about AWS that Data Engineer should know
 
 **Advanced Permissions and Accounts**  
-[MFA](01-accounts/mfa.md)  
-[IAM](01-accounts/iam.md)  
-[AWS Organizations](01-accounts/organizations.md)  
-[STS](01-accounts/sts.md)  
-[Policies](01-accounts/policies.md)  
-[AWS Resource Access Manager - RAM](01-accounts/ram.md)  
-[AWS Service Quotas](01-accounts/service-quotas.md)  
+[MFA](https://github.com/vineetprasad19/AWS/blob/main/mfa.md)  
+[IAM](https://github.com/vineetprasad19/AWS/blob/main/iam.md)  
+[AWS Organizations](https://github.com/vineetprasad19/AWS/blob/main/organizations.md)  
+[STS](https://github.com/vineetprasad19/AWS/blob/main/sts.md)  
+[Policies](https://github.com/vineetprasad19/AWS/blob/main/policies.md)  
+[AWS Resource Access Manager - RAM](https://github.com/vineetprasad19/AWS/blob/main/ram.md)  
+[AWS Service Quotas](https://github.com/vineetprasad19/AWS/blob/main/service-quotas.md)  
 
 **Compute:**  
 EC2 (Elastic Compute Cloud): Virtual servers for running applications.  
