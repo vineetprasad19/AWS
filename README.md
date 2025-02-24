@@ -10,7 +10,7 @@
 [AWS Service Quotas](https://github.com/vineetprasad19/AWS/blob/main/service-quotas.md)  
 ************************************************************************************************
 **Networking**
-[VPC - Virtual Private Cloud](https://github.com/vineetprasad19/AWS/blob/main/vpc.md)
+[VPC - Virtual Private Cloud](https://github.com/vineetprasad19/AWS/blob/main/vpc.md)  
 [VPNs](https://github.com/vineetprasad19/AWS/blob/main/vpn.md)
 [AWS Transit Gateway](https://github.com/vineetprasad19/AWS/blob/main/transit-gateway.md)
 [BGP - Border Gateway Protocol](https://github.com/vineetprasad19/AWS/blob/main/bgp.md)
